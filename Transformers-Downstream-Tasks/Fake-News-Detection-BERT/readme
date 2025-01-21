@@ -1,7 +1,7 @@
 Dataset:
 "https://github.com/laxmimerit/All-CSV-ML-Data-Files-Download/raw/master/fake_news.xlsx"
 
-Model Used: "distilbert-base-uncased", "google/mobilebert-uncased", "huawei-noah/TinyBERT_General_4L_312D"
+Model Used: "distilbert-base-uncased", "google/mobilebert-uncased", "huawei-noah/TinyBERT_General_4L_312D", "bert-base-uncased"
 
 Training Code:
 '''
