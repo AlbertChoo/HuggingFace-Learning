@@ -1,0 +1,4 @@
+- Fine-Tune BERT for Multi-Class Classification, Sentiment Analysis
+- Fake News Detection using DistilBERT, MobileBERT, TinyBERT, BERT-Base
+- Restaurant NER Recognition
+- Fine-Tune T5 for Custom Summarization using Facebook BART and T5-small
