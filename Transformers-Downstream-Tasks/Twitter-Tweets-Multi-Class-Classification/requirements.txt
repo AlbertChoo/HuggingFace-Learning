@@ -1,0 +1,12 @@
+transformers==4.48.0
+# os - version not found
+# torch - version not found
+seaborn==0.13.2
+# sklearn - version not found
+# shutil - version not found
+google==2.0.3
+pandas==2.2.2
+evaluate==0.4.3
+matplotlib==3.10.0
+numpy==1.26.4
+datasets==3.2.0
