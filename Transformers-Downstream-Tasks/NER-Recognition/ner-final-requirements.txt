@@ -1,0 +1,9 @@
+# json - version not found
+pandas==2.2.2
+google==2.0.3
+requests==2.32.3
+evaluate==0.4.3
+datasets==3.2.0
+transformers==4.48.0
+numpy==1.26.4
+# os - version not found
