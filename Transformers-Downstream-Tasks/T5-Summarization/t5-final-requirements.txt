@@ -1,0 +1,5 @@
+transformers==4.48.1
+# warnings - version not found
+pandas==2.2.2
+datasets==3.2.0
+# torch - version not found
