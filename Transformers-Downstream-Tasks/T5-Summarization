@@ -1,4 +1,0 @@
-# T5 Custom Summarization Project
-- Dataset: The CNN/ DailyMail Dataset
-- Notes: Summaries are abstractive, not extractive
-- Model Used: Facebook BART, T5-small
