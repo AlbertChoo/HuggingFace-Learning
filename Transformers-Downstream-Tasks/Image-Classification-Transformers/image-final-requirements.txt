@@ -1,0 +1,10 @@
+evaluate==0.4.3
+numpy==1.26.4
+transformers==4.47.1
+# PIL - version not found
+# warnings - version not found
+datasets==3.2.0
+requests==2.32.3
+# io - version not found
+# torchvision - version not found
+# torch - version not found
