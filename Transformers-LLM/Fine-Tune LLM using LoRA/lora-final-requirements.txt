@@ -1,0 +1,7 @@
+peft==0.14.0
+transformers==4.48.2
+# torch - version not found
+# gc - version not found
+# trl - version not found
+# datasets - version not found
+# os - version not found
