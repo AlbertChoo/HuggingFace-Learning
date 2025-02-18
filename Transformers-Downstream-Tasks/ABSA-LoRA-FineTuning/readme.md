@@ -68,7 +68,9 @@ This project implements Aspect-Based Sentiment Analysis (ABSA) using BERT with L
   - Implement other calibration techniques (Platt scaling, isotonic regression).
 
 ## Author
-[Vernon Choo Chee Yang] - [[LinkedIn/GitHub Profile]](https://www.linkedin.com/in/vernon-choo-chee-yang-61a966247/)
+[Vernon Choo Chee Yang]
+- [[LinkedIn Profile]](https://www.linkedin.com/in/vernon-choo-chee-yang-61a966247/)
+- [[GitHub Profile]](https://github.com/AlbertChoo?tab=repositories) ```Inside HuggingFace Learning```
 
 ## Acknowledgments
 - Hugging Face Transformers & Datasets
