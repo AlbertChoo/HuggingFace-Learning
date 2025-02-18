@@ -1,20 +1,31 @@
 # Aspect-Based Sentiment Analysis (ABSA) with LoRA Fine-Tuning
 
 ## Overview
-
 This project implements Aspect-Based Sentiment Analysis (ABSA) using BERT with LoRA fine-tuning on the SemEval-2014 Task 4 dataset. The model classifies sentiments (Positive, Negative, Neutral) for specific aspects within text. To improve probability calibration, temperature scaling was applied post-training.
 
 ## Features
-
 - **LoRA Fine-Tuning**: Efficient adaptation of BERT with trainable low-rank adapters.
 - **Aspect-Based Sentiment Classification**: Sentiment analysis at the aspect level rather than full sentence.
 - **Hugging Face Integration**: Tokenization and dataset preparation with datasets and transformers.
 - **Temperature Scaling**: Post-hoc calibration for better probability reliability.
 
 ## Dataset
-- **Source**: SemEval-2014 Task 4
+- **Source**: [[SemEval-2014 Task 4]](https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2)
 - **Categories**: Laptops & Restaurants
 - **Labels**: Positive, Negative, Neutral
+
+## Requirements
+```
+torch==2.1.0
+transformers==4.36.0
+datasets==2.14.5
+peft==0.7.1
+scikit-learn==1.3.0
+numpy==1.23.5
+pandas==1.5.3
+tqdm==4.66.1
+accelerate==0.24.0
+```
 
 ## Installation
 ```pip install -U transformers accelerate datasets torch```
